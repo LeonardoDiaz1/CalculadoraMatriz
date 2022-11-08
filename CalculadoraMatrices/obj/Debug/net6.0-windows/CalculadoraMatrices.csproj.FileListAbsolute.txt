@@ -1,0 +1,35 @@
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.exe
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.deps.json
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.runtimeconfig.json
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.dll
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.pdb
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.Form1.resources
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.csproj.GenerateResource.cache
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.AssemblyInfo.cs
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.dll
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\refint\CalculadoraMatrices.dll
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.pdb
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.genruntimeconfig.cache
+C:\Users\Leonardo\source\Proyecto\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\ref\CalculadoraMatrices.dll
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.exe
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.deps.json
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.runtimeconfig.json
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.dll
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\net6.0-windows\CalculadoraMatrices.pdb
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.csproj.AssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.Form1.resources
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.Properties.Resources.resources
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.csproj.GenerateResource.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.dll
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\refint\CalculadoraMatrices.dll
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.pdb
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\CalculadoraMatrices.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Para Mandar\Visual Code\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\net6.0-windows\ref\CalculadoraMatrices.dll
